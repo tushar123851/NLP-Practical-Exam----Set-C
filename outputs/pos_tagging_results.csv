@@ -1,0 +1,47 @@
+Review,Word,POS Tag
+This dress has beautiful fabric and excellent quality.,This,DT
+This dress has beautiful fabric and excellent quality.,dress,NN
+This dress has beautiful fabric and excellent quality.,has,VBZ
+This dress has beautiful fabric and excellent quality.,beautiful,VBN
+This dress has beautiful fabric and excellent quality.,fabric,JJ
+This dress has beautiful fabric and excellent quality.,and,CC
+This dress has beautiful fabric and excellent quality.,excellent,JJ
+This dress has beautiful fabric and excellent quality.,quality,NN
+This dress has beautiful fabric and excellent quality.,.,.
+The fitting is poor and the material feels uncomfortable.,The,DT
+The fitting is poor and the material feels uncomfortable.,fitting,NN
+The fitting is poor and the material feels uncomfortable.,is,VBZ
+The fitting is poor and the material feels uncomfortable.,poor,JJ
+The fitting is poor and the material feels uncomfortable.,and,CC
+The fitting is poor and the material feels uncomfortable.,the,DT
+The fitting is poor and the material feels uncomfortable.,material,NN
+The fitting is poor and the material feels uncomfortable.,feels,NNS
+The fitting is poor and the material feels uncomfortable.,uncomfortable,JJ
+The fitting is poor and the material feels uncomfortable.,.,.
+I love this stylish shirt and its soft texture.,I,PRP
+I love this stylish shirt and its soft texture.,love,VBP
+I love this stylish shirt and its soft texture.,this,DT
+I love this stylish shirt and its soft texture.,stylish,JJ
+I love this stylish shirt and its soft texture.,shirt,NN
+I love this stylish shirt and its soft texture.,and,CC
+I love this stylish shirt and its soft texture.,its,PRP$
+I love this stylish shirt and its soft texture.,soft,JJ
+I love this stylish shirt and its soft texture.,texture,NN
+I love this stylish shirt and its soft texture.,.,.
+The product looks expensive but feels very cheap.,The,DT
+The product looks expensive but feels very cheap.,product,NN
+The product looks expensive but feels very cheap.,looks,VBZ
+The product looks expensive but feels very cheap.,expensive,JJ
+The product looks expensive but feels very cheap.,but,CC
+The product looks expensive but feels very cheap.,feels,JJ
+The product looks expensive but feels very cheap.,very,RB
+The product looks expensive but feels very cheap.,cheap,RB
+The product looks expensive but feels very cheap.,.,.
+The comfortable design makes this dress perfect.,The,DT
+The comfortable design makes this dress perfect.,comfortable,JJ
+The comfortable design makes this dress perfect.,design,NN
+The comfortable design makes this dress perfect.,makes,VBZ
+The comfortable design makes this dress perfect.,this,DT
+The comfortable design makes this dress perfect.,dress,NN
+The comfortable design makes this dress perfect.,perfect,NN
+The comfortable design makes this dress perfect.,.,.

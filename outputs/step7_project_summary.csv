@@ -1,0 +1,7 @@
+Step,Dataset / Size,Technique / Library,Key Result
+Step 1 - Data Preprocessing,"Women's Clothing Reviews - 22,641 rows","Pandas, Regex, Text Cleaning",18.11% Not Recommended
+Step 2 - Feature Extraction,"18,112 training reviews","TF-IDF, Scikit-learn",Vocabulary size: 16 (verify)
+Step 3 - Word2Vec,"18,112 training reviews",Word2Vec Skip-gram,"3,910 vocabulary words; 100 dimensions"
+Step 4 - Classification,"18,112 train / 4,529 test","Logistic Regression, TF-IDF, Word2Vec, BoW",Best accuracy: 88.81%; ROC-AUC: 0.9463
+Step 5 - Heuristic and POS Tagging,Review text samples,"Warning-word rules, POS tagging",Best heuristic threshold: 1 warning match
+Step 6 - Streamlit Deployment,User-entered review,"Streamlit, Saved ML Pipeline",Enter actual app testing result
