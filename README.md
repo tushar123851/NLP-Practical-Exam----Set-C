@@ -1,6 +1,9 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Fashion%20Review%20Analytics&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Understand%20customer%20reviews%20with%20NLP%20%26%20Machine%20Learning&descAlignY=60&descSize=16" width="100%" alt="Fashion Review Analytics banner" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&height=55&lines=FASHION+REVIEW+ANALYTICS" alt="Fashion Review Analytics Animated Title" />
+</a>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Turning+fashion+reviews+into+useful+insights;NLP+%7C+Machine+Learning+%7C+Streamlit;Predict+whether+customers+recommend+a+product" alt="Typing animation" />
@@ -18,6 +21,7 @@
 **An end-to-end NLP project that analyses women's clothing reviews and predicts customer recommendation behaviour.**
 
 </div>
+
 
 ---
 
