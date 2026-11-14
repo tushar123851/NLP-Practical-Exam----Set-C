@@ -1,1 +1,13 @@
 
+streamlit
+pandas
+numpy
+scikit-learn
+gensim
+nltk
+matplotlib
+seaborn
+joblib
+vaderSentiment
+scipy
+
