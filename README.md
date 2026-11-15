@@ -41,8 +41,6 @@ Fashion Review Analytics turns unstructured customer feedback into an understand
 
 The Streamlit interface includes example reviews, a product title field, a customer review input, prediction result, recommendation probability, review statistics, and prediction confidence.
 
-**Add your application screenshot:** Create an `assets` folder in your repository, save your screenshot as `fashion-review-analytics.png`, and the preview below will display automatically.
-
 <div align="center">
   <img src="assets/fashion-review-analytics.png" width="92%" alt="Fashion Review Analytics Streamlit application screenshot" />
   <br/>
