@@ -43,7 +43,8 @@ Fashion Review Analytics turns unstructured customer feedback into an understand
 
 Watch my **Fashion Review Analytics** project demonstration:
 
-[![WATCH PROJECT DEMO](https://img.shields.io/badge/▶_WATCH_PROJECT_DEMO-Click_Here-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1djgCKNhts5a7IqUO-iKD8YNJIIoMIiAW/view?usp=sharing)
+
+[![▶ WATCH PROJECT DEMO](https://img.shields.io/badge/▶_WATCH_PROJECT_DEMO-Google_Drive-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18j0yHwcUfLUHYox8NJfvH6Mc_MG1YP4Z/view?usp=sharing)
 
 ----
 
