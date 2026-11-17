@@ -37,6 +37,17 @@ Fashion Review Analytics turns unstructured customer feedback into an understand
 
 </div>
 
+----
+
+## 🎥 Project Demo Video
+
+Watch my **Fashion Review Analytics** project demonstration:
+
+[![WATCH PROJECT DEMO](https://img.shields.io/badge/▶_WATCH_PROJECT_DEMO-Click_Here-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1djgCKNhts5a7IqUO-iKD8YNJIIoMIiAW/view?usp=sharing)
+
+----
+
+
 ## 🖥️ Application preview
 
 The Streamlit interface includes example reviews, a product title field, a customer review input, prediction result, recommendation probability, review statistics, and prediction confidence.
